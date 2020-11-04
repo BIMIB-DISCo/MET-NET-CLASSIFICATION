@@ -27,7 +27,7 @@ Now, you can simply execute each cell to reproduce the results shown in the pape
 ### Outputs 
 The notebook populates a pandas dataframe with all the performance metrics used to perform the hyperparameters selection and to compare the classification methods.
 
-# BREAST CANCER DATASETS
+### BREAST CANCER DATASETS
 We considered 105 breast cancer patients with gene expression profile obtained from either cancer and normal/health tissue, for a total of 210 gene expression profiles (source TCGA-BRCA database).
 
 In the *breast_cancer_expression* directory one can find those data in two compressed files, one includes cancer and one includes normal samples.
