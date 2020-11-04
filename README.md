@@ -22,7 +22,7 @@
 Please launch Jupyter from the terminal with the following command:
 <pre><code>Jupyter notebook</code></pre>
 
-Now, you can simply execute each cell to reproduce the results shown in the paper [xxx].
+Now, you can simply execute each cell in the *methods.ipynb* notebook to reproduce the results shown in the paper [xxx].
 
 ### Outputs 
 The notebook populates a pandas dataframe with all the performance metrics used to perform the hyperparameters selection and to compare the classification methods.
